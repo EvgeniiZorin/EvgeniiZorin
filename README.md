@@ -6,4 +6,4 @@ This is the profile for my github account!
 - 🌱 I’m currently learning to improve my skills in Data Analysis in Python, R, and Bash; 
 
 
-<img src="https://github.com/vzem19/vzem19/blob/d03a69bd7ed4d25fb0954244184a7494c34fcc9f/jeremy-cai-ucYWe5mzTMU-unsplash.jpg">
+<img src="https://github.com/vzem19/vzem19/blob/a22758899da8f5c2a473231c55a5b8709638a97a/IMG_20201107_220928.png">
