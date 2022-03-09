@@ -14,5 +14,5 @@ Languages that I know:
 <br>
 <br>
 
-<img src="https://github.com/vzem19/vzem19/blob/9e0905e3242fbb8eb11952ed5d98052f9f4e304a/IMG_20201107_220928.png">
-
+<!-- <img src="https://github.com/vzem19/vzem19/blob/9e0905e3242fbb8eb11952ed5d98052f9f4e304a/IMG_20201107_220928.png">
+ -->
