@@ -11,6 +11,6 @@ My favourite professional activities:
 Languages that I know:    
 
 <img align="left" alt="Python" width="50px" src="https://github.com/vzem19/vzem19/blob/b9645cc1336a3ea15136406e8d046c0e8691e185/PythonLogo3.png" />
-[<img align="left" alt="R" width="50px" src="https://github.com/vzem19/vzem19/blob/8b9598391a2975c73ca016613bbd015ea7f390b2/RLogo.png" />]
-[<img align="left" alt="Bash" width="50px" src="https://github.com/vzem19/vzem19/blob/128fc3c67999a7c318bf975c546b116f58e41020/BashLogo.png" />]
-[<img align="left" alt="SQL" width="100px" src="https://github.com/EvgeniiZorin/EvgeniiZorin/blob/c666747c28cc1b6fbbb22e5c283168af63679130/Sql_data_base_with_logo.png" />]
+<img align="left" alt="R" width="50px" src="https://github.com/vzem19/vzem19/blob/8b9598391a2975c73ca016613bbd015ea7f390b2/RLogo.png" />
+<img align="left" alt="Bash" width="50px" src="https://github.com/vzem19/vzem19/blob/128fc3c67999a7c318bf975c546b116f58e41020/BashLogo.png" />
+<img align="left" alt="SQL" width="100px" src="https://github.com/EvgeniiZorin/EvgeniiZorin/blob/c666747c28cc1b6fbbb22e5c283168af63679130/Sql_data_base_with_logo.png" />
