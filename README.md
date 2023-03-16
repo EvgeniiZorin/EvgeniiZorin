@@ -1,9 +1,12 @@
-### Hi there 👋
+### Welcome to my Github account 👋
 
-This is the profile for my github account!
+I am a Data Scientist and Machine Learning early-career professional. 
 
-- 🔭 I’m currently working on finishing my MSc in Biotechnology (project in Bioinformatics);
-- 🌱 I’m currently learning to improve my skills in Data Analysis in Python, R, and Bash; 
+My favourite professional activities:
+- Applying Statistical Tests implementations in Python; 
+- Building ML models; 
+- I love general programming in Python: building Telegram bots, web scrapping websites, building GUI applications; 
+
 
 Languages that I know:    
 
