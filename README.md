@@ -9,7 +9,7 @@ My favourite professional activities:
 
 In my free time, I enjoy writing Handbooks based on many video and online text tutorials, as well as personal experience. You can find them on my Github, as they start with a prefix `Handbook_`. Some of them are linked below:
 
-- https://github.com/EvgeniiZorin/Handbook_Statistics-Probability-and-ML
+- Data Science: https://github.com/EvgeniiZorin/Handbook_Statistics-Probability-and-ML
 - Python: https://github.com/EvgeniiZorin/Handbook_Python
 
 Hope you enjoy!
