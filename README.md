@@ -7,7 +7,12 @@ My favourite professional activities:
 - Building ML models; 
 - I love general programming in Python: building Telegram bots, web scrapping websites, building GUI applications; 
 
-In my free time, I enjoy writing Handbooks based on many video and online text tutorials, as well as personal experience. You can find them on my Github, as they start with a prefix `Handbook_`. Hope you enjoy!
+In my free time, I enjoy writing Handbooks based on many video and online text tutorials, as well as personal experience. You can find them on my Github, as they start with a prefix `Handbook_`. Some of them are linked below:
+
+- https://github.com/EvgeniiZorin/Handbook_Statistics-Probability-and-ML
+- Python: https://github.com/EvgeniiZorin/Handbook_Python
+
+Hope you enjoy!
 
 Languages that I know:    
 
