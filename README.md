@@ -12,7 +12,7 @@ In my free time, I enjoy writing Handbooks based on many video and online text t
 - Python: https://github.com/EvgeniiZorin/Handbook_Python
 - SQL: https://github.com/EvgeniiZorin/Handbook_SQL
 - Data Science: https://github.com/EvgeniiZorin/Handbook_Data-Science
-- Bash: https://github.com/EvgeniiZorin/Handbook_Bash
+- Bash, Powershell: [https://github.com/EvgeniiZorin/Handbook_Bash](https://github.com/EvgeniiZorin/Handbook_Scripting-languages)
 - Mathematics: https://github.com/EvgeniiZorin/Handbook_Mathematics
 - Data Structures and Algorithms: https://github.com/EvgeniiZorin/Handbook_Data-Structures-and-Algorithms
 - General Programming: https://github.com/EvgeniiZorin/Handbook_GeneralProgramming
