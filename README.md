@@ -10,7 +10,7 @@ My favourite professional activities:
 In my free time, I enjoy writing Handbooks based on many video and online text tutorials, as well as personal experience. You can find them on my Github, as they start with a prefix `Handbook_`. Some of them are linked below:
 
 - Python: https://github.com/EvgeniiZorin/Handbook_Python
-- SQL: https://github.com/EvgeniiZorin/Handbook_SQL
+- Databases: https://github.com/EvgeniiZorin/Handbook_Databases
 - Data Science: https://github.com/EvgeniiZorin/Handbook_Data-Science
 - Bash, Powershell: https://github.com/EvgeniiZorin/Handbook_Scripting-languages
 - Mathematics: https://github.com/EvgeniiZorin/Handbook_Mathematics
