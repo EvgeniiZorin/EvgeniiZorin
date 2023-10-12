@@ -25,5 +25,5 @@ Languages that I know:
 <img align="left" alt="SQL" width="100px" src="https://github.com/EvgeniiZorin/EvgeniiZorin/blob/c666747c28cc1b6fbbb22e5c283168af63679130/Sql_data_base_with_logo.png" />
 
 My stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniiZorin)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniiZorin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
