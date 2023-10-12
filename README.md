@@ -24,8 +24,10 @@ Languages that I know:
 <img align="left" alt="Bash" width="50px" src="https://github.com/vzem19/vzem19/blob/128fc3c67999a7c318bf975c546b116f58e41020/BashLogo.png" />
 <img align="left" alt="SQL" width="100px" src="https://github.com/EvgeniiZorin/EvgeniiZorin/blob/c666747c28cc1b6fbbb22e5c283168af63679130/Sql_data_base_with_logo.png" />
 
+---
+
 My stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniiZorin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiZorin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
