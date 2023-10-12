@@ -30,4 +30,4 @@ My stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniiZorin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiZorin&layout=donut&hide=ipynb,Jupyter-NotebookJupyter_Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiZorin&layout=donut&hide=ipynb,Jupyter-NotebookJupyter_Notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
