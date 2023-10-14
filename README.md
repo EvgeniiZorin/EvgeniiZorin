@@ -25,10 +25,10 @@ Languages that I know:
 <img align="left" alt="SQL" width="100px" src="https://github.com/EvgeniiZorin/EvgeniiZorin/blob/c666747c28cc1b6fbbb22e5c283168af63679130/Sql_data_base_with_logo.png" />
 
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+
+<img aligh="left" alt="bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
+<img aligh="left" alt="bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="50px"/>
           
