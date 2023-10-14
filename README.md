@@ -26,13 +26,15 @@ Languages that I know:
 
 
 
+| Bash | Python |
+| - | - |
+| <img alt="bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/> | <img alt="bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/> |
 
-<img aligh="left" alt="bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
-<img aligh="left" alt="bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="50px"/>
-          
-<i class="devicon-devicon-plain"></i>
+
+
 
 Icons from https://github.com/devicons/devicon, https://devicon.dev/
 
