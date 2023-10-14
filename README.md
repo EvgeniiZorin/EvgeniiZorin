@@ -29,8 +29,10 @@ Languages that I know:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
-
-<i class="devicon-bash-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+          
+          
           
 
 Icons from https://github.com/devicons/devicon, https://devicon.dev/
