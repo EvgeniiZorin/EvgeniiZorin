@@ -31,6 +31,7 @@ Languages that I know:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
 
 Icons from https://github.com/devicons/devicon, https://devicon.dev/
+
 ---
 
 My stats:
