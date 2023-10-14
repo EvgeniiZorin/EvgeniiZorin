@@ -17,15 +17,18 @@ In my free time, I enjoy writing Handbooks based on many video and online text t
 - Data Structures and Algorithms: https://github.com/EvgeniiZorin/Handbook_Data-Structures-and-Algorithms
 - General Programming: https://github.com/EvgeniiZorin/Handbook_GeneralProgramming
 
+<img alt="R" width="50px" src="https://github.com/vzem19/vzem19/blob/8b9598391a2975c73ca016613bbd015ea7f390b2/RLogo.png" />
+
 Languages that I know: 
-| Bash | Python | SQL | R |
-| - | - | - | - |
-| <img alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/> | <img alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> | <img alt="R" width="50px" src="https://github.com/vzem19/vzem19/blob/8b9598391a2975c73ca016613bbd015ea7f390b2/RLogo.png" /> |
+| Bash | Python | SQL | R | latex |
+| - | - | - | - | - |
+| <img alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/> | <img alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> |
 
 Key technologies:
-| Docker |
-| - |
-| <img alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> |
+| Docker | Git | Jupyter | Anaconda | OpenCV |
+| - | - | - | - | - |
+| <img alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /> |
+
 
 Icons from https://github.com/devicons/devicon, https://devicon.dev/
 
