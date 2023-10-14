@@ -27,7 +27,7 @@ Languages that I know:
 
 
 | Bash | Python | SQL | R |
-| - | - |
+| - | - | - | - |
 | <img alt="bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/> | <img alt="bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> | <img alt="R" width="50px" src="https://github.com/vzem19/vzem19/blob/8b9598391a2975c73ca016613bbd015ea7f390b2/RLogo.png" /> |
 
 Key technologies:
