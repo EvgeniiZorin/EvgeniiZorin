@@ -16,6 +16,8 @@ In my free time, I enjoy writing Handbooks based on many video and online text t
 - Data Structures and Algorithms: https://github.com/EvgeniiZorin/Handbook_Data-Structures-and-Algorithms
 - General Programming: https://github.com/EvgeniiZorin/Handbook_GeneralProgramming
 
+<a href="https://github.com/EvgeniiZorin/Handbook_GeneralProgramming" target="_blank">General Programming</a>
+
 Languages that I know: 
 | Bash | Python | SQL | R | latex |
 | - | - | - | - | - |
