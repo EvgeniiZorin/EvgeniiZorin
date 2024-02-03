@@ -15,6 +15,7 @@ In my free time, I enjoy writing Handbooks based on many video and online text t
 - Bash, Powershell: https://github.com/EvgeniiZorin/Handbook_Scripting-languages
 - Data Structures and Algorithms: https://github.com/EvgeniiZorin/Handbook_Data-Structures-and-Algorithms
 - General Programming: https://github.com/EvgeniiZorin/Handbook_GeneralProgramming
+- <a href="https://github.com/EvgeniiZorin/Handbook_Web-Development" target="blank">html, css, markdown</a>
 
 <a href="https://github.com/EvgeniiZorin/Handbook_GeneralProgramming" target="blank">General Programming</a>
 
